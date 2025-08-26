@@ -1,6 +1,7 @@
 # Lab-2-TEC-284
 Programming Fundamentals 
 /*
+
   Blink
 
   Turns an LED on for one second, then off for one second, repeatedly.
